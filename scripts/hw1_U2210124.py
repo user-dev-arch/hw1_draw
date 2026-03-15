@@ -1,3 +1,6 @@
+# github repo
+# https://github.com/user-dev-arch/hw1_draw
+
 #!/usr/bin/env python3
 import math
 import threading
